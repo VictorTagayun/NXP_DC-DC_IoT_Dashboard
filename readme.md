@@ -1,1 +1,1 @@
-# Planning to make a dash board for NXP D-MSPS
+# Planning to make a dash board for NXP D-SMPS
